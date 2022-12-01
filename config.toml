@@ -14,10 +14,10 @@ title = 'NCC website'
   name = "Gallery"
   url= "gallery/"
   weight = 2
-  # [[menu.Main]]
-  # name = "Enrollment"
-  # url= "/enrollment/"
-  # weight = 3
+  [[menu.Main]]
+  name = "Enrollment"
+  url= "enrollment/"
+  weight = 3
   [[menu.Main]]
   name = "Contact"
   url= "contact/"
