@@ -1,34 +1,37 @@
 ---
-title: "Gallery"
+title: 'Gallery'
 date: 2022-01-08T10:41:03+06:00
 
 galleryImage2:
-  - image: "images/ncc-gallery/1.JPG"
-  - image: "images/ncc-gallery/2.JPG"
-  - image: "images/ncc-gallery/3.JPG"
-  - image: "images/ncc-gallery/4.JPG"
-  - image: "images/ncc-gallery/5.JPG"
-  - image: "images/ncc-gallery/6.JPG"
-  - image: "images/ncc-gallery/7.JPG"
-  - image: "images/ncc-gallery/8.JPG"
-  - image: "images/ncc-gallery/9.JPG"
-  - image: "images/ncc-gallery/10.JPG"
-  - image: "images/ncc-gallery/11.JPG"
-  - image: "images/ncc-gallery/12.JPG"
-  - image: "images/ncc-gallery/13.JPG"
-  - image: "images/ncc-gallery/14.JPG"
-  - image: "images/ncc-gallery/15.JPG"
-  - image: "images/ncc-gallery/16.JPG"
-  - image: "images/ncc-gallery/17.JPG"
-  - image: "images/ncc-gallery/18.JPG"
-  - image: "images/ncc-gallery/19.JPG"
-  - image: "images/ncc-gallery/20.JPG"
-  - image: "images/ncc-gallery/21.JPG"
-  - image: "images/ncc-gallery/22.JPG"
-  - image: "images/ncc-gallery/23.JPG"
-  - image: "images/ncc-gallery/24.JPG"
-  - image: "images/ncc-gallery/25.JPG"
-  - image: "images/ncc-gallery/26.JPG"
-  - image: "images/ncc-gallery/27.JPG"
-  - image: "images/ncc-gallery/28.JPG"
+  #   - image: 'images/ncc-gallery/1.JPG'
+  #   - image: 'images/ncc-gallery/2.JPG'
+  #   - image: 'images/ncc-gallery/3.JPG'
+  #   - image: 'images/ncc-gallery/4.JPG'
+  #   - image: 'images/ncc-gallery/5.JPG'
+  #   - image: 'images/ncc-gallery/6.JPG'
+  #   - image: 'images/ncc-gallery/7.JPG'
+  #   - image: 'images/ncc-gallery/8.JPG'
+  #   - image: 'images/ncc-gallery/9.JPG'
+  #   - image: 'images/ncc-gallery/10.JPG'
+  #   - image: 'images/ncc-gallery/11.JPG'
+  #   - image: 'images/ncc-gallery/12.JPG'
+  #   - image: 'images/ncc-gallery/13.JPG'
+  #   - image: 'images/ncc-gallery/14.JPG'
+  #   - image: 'images/ncc-gallery/15.JPG'
+  #   - image: 'images/ncc-gallery/16.JPG'
+  #   - image: 'images/ncc-gallery/17.JPG'
+  #   - image: 'images/ncc-gallery/18.JPG'
+  #   - image: 'images/ncc-gallery/19.JPG'
+  #   - image: 'images/ncc-gallery/20.JPG'
+  #   - image: 'images/ncc-gallery/21.JPG'
+  #   - image: 'images/ncc-gallery/22.JPG'
+  #   - image: 'images/ncc-gallery/23.JPG'
+  #   - image: 'images/ncc-gallery/24.JPG'
+  #   - image: 'images/ncc-gallery/25.JPG'
+  #   - image: 'images/ncc-gallery/26.JPG'
+  #   - image: 'images/ncc-gallery/27.JPG'
+  #   - image: 'images/ncc-gallery/28.JPG'
+  - image: 'images/ncc-gallery/29.JPG'
+  - image: 'images/ncc-gallery/30.JPG'
+  - image: 'images/ncc-gallery/31.JPG'
 ---
