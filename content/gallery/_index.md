@@ -42,4 +42,9 @@ galleryImage2:
   - image: 'images/ncc-gallery/37.JPG'
   - image: 'images/ncc-gallery/38.JPG'
   - image: 'images/ncc-gallery/39.JPG'
+  - image: 'images/ncc-gallery/40.JPG'
+  - image: 'images/ncc-gallery/41.JPG'
+  - image: 'images/ncc-gallery/42.JPG'
+  - image: 'images/ncc-gallery/43.JPG'
+  - image: 'images/ncc-gallery/44.JPG'
 ---
