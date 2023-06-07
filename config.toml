@@ -59,7 +59,7 @@ title = 'NCC website'
   # Socail icons
   [[params.social]]
   icon = "ti-facebook"
-  url = "https://www.facebook.com/"
+  url = "https://www.facebook.com/profile.php?id=100091668218879"
   weight = 1
   [[params.social]]
   icon = "ti-twitter-alt"
@@ -71,7 +71,7 @@ title = 'NCC website'
   weight = 3
   [[params.social]]
   icon = "ti-instagram"
-  url = "https://www.instagram.com/"
+  url = "https://www.instagram.com/ncc_iit_hyderabad/?igshid=MmIzYWVlNDQ5Yg%3D%3D"
   weight = 4
   
   
