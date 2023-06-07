@@ -34,4 +34,12 @@ galleryImage2:
   - image: 'images/ncc-gallery/29.JPG'
   - image: 'images/ncc-gallery/30.JPG'
   - image: 'images/ncc-gallery/31.JPG'
+  - image: 'images/ncc-gallery/32.JPG'
+  - image: 'images/ncc-gallery/33.JPG'
+  - image: 'images/ncc-gallery/34.JPG'
+  - image: 'images/ncc-gallery/35.JPG'
+  - image: 'images/ncc-gallery/36.JPG'
+  - image: 'images/ncc-gallery/37.JPG'
+  - image: 'images/ncc-gallery/38.JPG'
+  - image: 'images/ncc-gallery/39.JPG'
 ---
