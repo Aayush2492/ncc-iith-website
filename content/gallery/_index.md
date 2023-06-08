@@ -47,4 +47,6 @@ galleryImage2:
   - image: 'images/ncc-gallery/42.JPG'
   - image: 'images/ncc-gallery/43.JPG'
   - image: 'images/ncc-gallery/44.JPG'
+  - video: 'video/ncc-gallery/45.MP4'
+  - video: 'video/ncc-gallery/46.MP4'
 ---
