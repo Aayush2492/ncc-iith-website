@@ -22,6 +22,10 @@ title = 'NCC website'
   name = "Contact"
   url= "contact/"
   weight = 4
+  [[menu.Main]]
+  name = "Candidate"
+  url= "candidate/"
+  weight = 5
 
   # Sitemap Menu
   [[menu.sitemap]]

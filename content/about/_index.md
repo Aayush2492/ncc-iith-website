@@ -1,16 +1,16 @@
 ---
-title: "About"
+title: 'About'
 date: 2022-01-08T10:41:03+06:00
 subTitle: >
   The National Cadet Corps (NCC) is the youth wing of the Indian Armed Forces with its headquarters in New Delhi, India. It is open to school and college students on a voluntary basis as a Tri-Services Organisation, comprising the Army, the Navy and the Air Force, engaged in developing the youth of the country into disciplined and patriotic citizens. The soldier youth foundation in India is a voluntary organization which recruits cadets from high schools, higher secondary, colleges and universities all over India. The cadets are given basic military training in small arms and drill. The officers and cadets have no liability for active military service once they complete their course. The emblem of the NCC consists of 3 colors; red, dark blue and light blue. These colors represent the Indian Army, Indian Navy and Indian Air Force respectively. The 17 lotuses indicate the 17 directories of India.
 
 sliderImage:
-  - image: "images/ncc/30.JPG"
-  - image: "images/ncc/31.JPG"
-  - image: "images/ncc/32.JPG"
-  - image: "images/ncc/33.JPG"
-  - image: "images/ncc/34.JPG"
---
+  - image: 'images/ncc/30.JPG'
+  - image: 'images/ncc/31.JPG'
+  - image: 'images/ncc/32.JPG'
+  - image: 'images/ncc/33.JPG'
+  - image: 'images/ncc/34.JPG'
+---
 
 ## Origin of NCC
 
